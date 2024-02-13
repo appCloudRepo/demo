@@ -19,5 +19,6 @@ output application/java
 }]]></ee:set-payload>
 			</ee:message>
 		</ee:transform>
+		<logger level="INFO" doc:name="Logger" doc:id="bb207a55-d814-4ee6-b41d-169ec7737dfd" />
 	</flow>
 </mule>
