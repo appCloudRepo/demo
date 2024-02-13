@@ -32,9 +32,6 @@
 				<configuration>
 					<classifier>mule-application</classifier>
 				</configuration>
-				<configuration>
-					<classifier>mule-application</classifier>
-				</configuration>
 			</plugin>
 		</plugins>
 	</build>
